@@ -13,6 +13,7 @@ Submissions are stored in a SQLite database (movies.db).
 A list of all submitted movies is displayed on a /movies page.
 
 ⚡ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/YOUR-USERNAME/movie-app.git
 cd movie-app
